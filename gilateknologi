@@ -16,3 +16,6 @@ border-radius:4px;-moz-border-radius:4px;
 .postname li{border-bottom: #ddd 1px dotted;margin-right:5px}
 </style>
 <div id="toc">
+<script src="https://cdn.jsdelivr.net/gh/penaindigo/Pena-Indigo-Code@a134f9def601a6f77332eccc35d3d20e0d3c7e49/sitemappenaindigo.js" type="text/javascript"></script>
+<script src="/feeds/posts/default?max-results=9999&amp;alt=json-in-script&amp;callback=loadtoc">
+</script></div>
